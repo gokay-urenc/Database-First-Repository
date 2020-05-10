@@ -1,0 +1,37 @@
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\bin\Debug\DBFirstRepository.exe.config
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\bin\Debug\DBFirstRepository.exe
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\bin\Debug\DBFirstRepository.pdb
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csprojAssemblyReference.cache
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.Form1.resources
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.Properties.Resources.resources
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csproj.GenerateResource.cache
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csproj.CoreCompileInputs.cache
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.exe
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.pdb
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.dll
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.SqlServer.dll
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.xml
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.SqlServer.xml
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.FormTanımlamalar.KategoriFrm.resources
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csproj.CopyComplete
+F:\Kurs Dosyaları\YMS4117\DataAccess-EntityFramework\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.FormTanımlamalar.UrunFrm.resources
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\bin\Debug\DBFirstRepository.exe.config
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\bin\Debug\DBFirstRepository.exe
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\bin\Debug\DBFirstRepository.pdb
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.dll
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.xml
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.Form1.resources
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.FormTanımlamalar.KategoriFrm.resources
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.FormTanımlamalar.UrunFrm.resources
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.Properties.Resources.resources
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.csproj.CopyComplete
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.exe
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.pdb
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.CalisanlarFrm.resources
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.FormTanımlamalar.TedarikcilerFrm.resources
+C:\Users\casper\Desktop\DBFirstRepository\DBFirstRepository\obj\Debug\DBFirstRepository.FormTanımlamalar.NakliyecilerFrm.resources
